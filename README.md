@@ -4,7 +4,7 @@
 Elevators are widely used in shopping malls, airports, offices, hotels, hospitals and flats. Due to increasing population, architect are building tall buildings to entertain increasing demands in lesser ground area. Along with that, handicap person is helpless to use stairs. So, elevator plays a key role in our daily life to move towards any floor within short period of time.
 
 ## Working
-Elevator is designed for seven floor building. Its interface is user friendly in terms of inputsto elvator. It is designed and tested using **ModelSim** Software. Since code here is only for simulation because scripts were customized according to boards constraints. It was later tested on **Spartan 3E Kit**.
+Elevator is designed for seven floor building. Its interface is user friendly in terms of inputs to elvator. It is designed and tested using **ModelSim** Software. Since code here is only for simulation because scripts were later customized according to boards constraints. It was tested on **Spartan 3E Kit**.
 
 There are three main inputs that user will be requested to enter:
 1. **Up:** shows that user wants to go upward.
