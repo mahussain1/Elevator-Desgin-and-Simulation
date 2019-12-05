@@ -15,7 +15,7 @@ There are three main inputs that user will be requested to enter:
 Other inputs include `clk` and `rst` signals which are obvious in any sequential circuit.
 
 ## Simulation Graph
-<img src="./Images/Simulation_diagram.png">
+<img src="./Images/Simulation_diagram.PNG">
 
 
 
@@ -23,4 +23,4 @@ Other inputs include `clk` and `rst` signals which are obvious in any sequential
 #### Note
 This code was designed in 2016 in during my bachelors studies. Since it is not efficent but a litte effort to explore the Hardware Descripive Language.
 
-Thank you for redaing :smile:.
+Thank you for reading :smiley:.
