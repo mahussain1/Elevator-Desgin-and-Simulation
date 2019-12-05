@@ -21,6 +21,6 @@ Other inputs include `clk` and `rst` signals which are obvious in any sequential
 
 
 #### Note
-This code was designed in 2016 in during my bachelors studies. Since it is not efficent but a litte effort to explore the Hardware Descripive Language.
+This code was designed during my bachelors studies in 2016. Since it is not efficent but a litte effort to explore the Hardware Descripive Language.
 
 Thank you for reading :smiley:.
